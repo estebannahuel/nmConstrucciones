@@ -111,7 +111,7 @@ export const Inicio = () => {
             </div>
             <div className="col-md-4 text-center">
               <img
-                src="/images/banner.png" 
+                src="/images/banner.jpg" 
                 alt="Banner de Construcciones N & M"
                 className="img-fluid rounded shadow"
               />
