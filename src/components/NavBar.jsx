@@ -7,7 +7,7 @@ export const NavBar = () => {
                 {/* 1. LOGO: Ahora con un NavLink al inicio y clase navbar-brand */}
                 <NavLink to="/" className="navbar-brand me-auto me-lg-0"> {/* me-auto en móvil, me-lg-0 en desktop para mover el toggler */}
                     <img 
-                        src="../public/images/logo.png" 
+                        src="images/logo.png" 
                         alt="Logo de la empresa" 
                         width="150" 
                         height="auto" 
