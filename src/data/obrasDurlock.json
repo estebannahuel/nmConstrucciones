@@ -20,7 +20,7 @@
             " Comensado en Julio del 2023",
             " Terminado en Agosto del 2023"
         ],
-        "imagen": "../public/images/localEasy/local15.jpg",
+        "imagen": "images/localEasy/local15.jpg",
         "button": "https://www.facebook.com/photo/?fbid=696229025946993&set=a.696231242613438"
     },
     {
@@ -30,7 +30,7 @@
             "Trabajo de mueble de Durlock y Pintura en paredes pisos y puertas",
             " Comensado en Abril del 2022 fue una semana de Trabajo"
         ],
-        "imagen": "../public/images/casasuaraz/casa4.jpg",
+        "imagen": "images/casasuaraz/casa4.jpg",
         "button": "https://www.facebook.com/photo/?fbid=320820260137420&set=a.320820836804029"
     },
     {
@@ -40,7 +40,7 @@
             "Trabajo Pintura en paredes y puertas. colocacion de ventana, colocacion de mueble bacha y colocacion de ceramicas ",
             " Comensado en mayo del 2022 fue dos semana de Trabajo"
         ],
-        "imagen":  "../public/images/casaezeiza/casa15.jpg",
+        "imagen":  "images/casaezeiza/casa15.jpg",
         "button": "https://www.facebook.com/photo/?fbid=321394566746656&set=a.321394940079952"
     },
     {
@@ -50,7 +50,7 @@
             "Trabajo de entrada de auto y pintodo de pizo baldozas ",
             " Comensado en Diciembre del 2024 fue 3 dias de Trabajo"
         ],
-        "imagen":  "../public/images/frente/casa11.jpg",
+        "imagen":  "images/frente/casa11.jpg",
         "button": "https://www.facebook.com/photo/?fbid=321394566746656&set=a.321394940079952"
     },
     {
@@ -60,7 +60,7 @@
             "Trabajo de baño completo hasta reboques ",
             " Comensado en mayo del 2025 fue una semana de Trabajo"
         ],
-        "imagen":  "../public/images/baño/casa15.jpg",
+        "imagen":  "images/baño/casa15.jpg",
         "button": "https://www.facebook.com/photo/?fbid=321394566746656&set=a.321394940079952"
     }
 ]
