@@ -24,7 +24,7 @@ export const WhatsAppButton = () => {
       }}
     >
       <a 
-        href="https://walink.co/5c532e" // Reemplaza con tu número de WhatsApp
+        href="https://wa.me/5491156171376" // Reemplaza con tu número de WhatsApp
         target="_blank" 
         rel="noopener noreferrer" 
         // Eliminé las clases de Bootstrap del 'a' para que el div de depuración sea el visible
