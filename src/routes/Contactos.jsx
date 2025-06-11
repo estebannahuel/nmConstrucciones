@@ -51,7 +51,7 @@ export const Contactos = () => {
           </div>
 
           {/* Campos ocultos de FormSubmit */}
-          <input type="hidden" name="_next" value="http://localhost:5173/" />
+          <input type="hidden" name="_next" value="https://nm-construcciones.vercel.app/" />
           <input type="hidden" name="_captcha" value="false" />
         </form>
 
