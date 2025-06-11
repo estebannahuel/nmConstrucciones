@@ -1,0 +1,32 @@
+@import '../public/css/inicio.css';
+@import '../public/css/contactos.css';
+@import '../public/css/footer.css';
+@import '../public/css/tarjetas.css';
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+  background-image: url('../public/images/fondo2.png');  
+}
+
+.logo{
+    margin: 0 30px;
+   
+}
+
+#nav-ul{
+    margin: 0 30px;
+    font-size: 1.5rem;
+}
+
+/* Para compensar el posible desplazamiento de la barra de scroll en navegadores */
+body.modal-open { /* Bootstrap añade esta clase al body cuando un modal/offcanvas está abierto */
+    padding-right: var(--bs-gutter-x); /* O 17px si no usas variables de Bootstrap */
+}
+
+

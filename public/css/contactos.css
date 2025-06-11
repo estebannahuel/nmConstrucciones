@@ -1,0 +1,11 @@
+/* CSS personalizado (después de importar Bootstrap) */
+
+.form.container {
+    max-width: 700px; /* Limita el ancho del formulario en pantallas grandes */
+    /* Otros estilos personalizados que quieras mantener para tu clase .form */
+}
+
+/* Puedes ajustar el tamaño de fuente o colores específicos si no te gusta el default de Bootstrap */
+.form-control::placeholder {
+    color: #999; /* Para un color de placeholder más claro si lo necesitas */
+}

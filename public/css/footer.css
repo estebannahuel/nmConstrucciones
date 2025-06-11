@@ -1,0 +1,199 @@
+/* --- Estilos base (para pantallas grandes / desktop) --- */
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 10px;
+    background-color: #333; /* Color de fondo de ejemplo para el footer */
+    color: white; /* Color de texto para el footer */
+}
+
+.figure {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.footer img {
+    width: 150px;
+    height: auto;
+    display: block;
+}
+
+.nav-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    gap: 15px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.nav-footer ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 450px;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.redes,
+.contactos {
+    width: calc(50% - 30px);
+    max-width: 450px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 15px;
+    background-color: rgba(255, 255, 255, .5);
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+.derechos { /* Estilos para la sección de derechos como parte del footer */
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    line-height: 24px;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    margin-top: 10px;
+    /* Si estás usando 'bg-secondary' de Bootstrap, estos colores pueden ser sobrescritos */
+    /* background-color: #e9ecef; /* Ejemplo de color si no usas bg-secondary */
+    /* color: #495057; /* Ejemplo de color de texto si no usas bg-secondary */
+}
+
+/* Estilos específicos para los párrafos dentro de .derechos */
+.derechos .copy,
+.derechos .autoria {
+    margin: 5px 0; /* Un pequeño margen vertical para separar los párrafos */
+    padding: 0;
+    font-size: 0.95em; /* Tamaño de fuente por defecto */
+}
+
+
+/* --- MEDIA QUERIES --- */
+
+/* Para pantallas de hasta 992px (laptops pequeñas, tablets en horizontal) */
+@media (max-width: 992px) {
+    .footer {
+        padding: 15px;
+    }
+
+    .footer img {
+        width: 120px;
+    }
+
+    .nav-footer {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .nav-footer ul {
+        width: 100%;
+        max-width: 500px;
+        margin: 0;
+    }
+
+    .redes,
+    .contactos {
+        width: 90%;
+        max-width: 400px;
+        margin: 0;
+        padding: 20px;
+        border-radius: 15px;
+    }
+
+    .derechos {
+        font-size: 0.9em;
+    }
+    .derechos .copy,
+    .derechos .autoria {
+        font-size: 0.9em; /* Ajusta el tamaño de los párrafos */
+    }
+}
+
+/* Para pantallas de hasta 768px (tablets en vertical, móviles grandes) */
+@media (max-width: 768px) {
+    .footer {
+        padding: 10px;
+    }
+
+    .footer img {
+        width: 100px;
+        margin-bottom: 15px;
+    }
+
+    .nav-footer {
+        gap: 15px;
+    }
+
+    .nav-footer ul {
+        max-width: 350px;
+    }
+
+    .redes,
+    .contactos {
+        width: 95%;
+        max-width: 350px;
+        padding: 15px;
+        border-radius: 10px;
+    }
+
+    .derechos {
+        font-size: 0.85em;
+        line-height: 20px;
+    }
+    .derechos .copy,
+    .derechos .autoria {
+        font-size: 0.8em; /* Ajusta el tamaño de los párrafos */
+        margin: 3px 0; /* Reduce el margen entre párrafos */
+    }
+}
+
+/* Para pantallas de hasta 480px (móviles pequeños en vertical) */
+@media (max-width: 480px) {
+    .footer {
+        padding: 8px;
+    }
+
+    .footer img {
+        width: 80px;
+        margin-bottom: 10px;
+    }
+
+    .nav-footer {
+        gap: 10px;
+    }
+
+    .nav-footer ul {
+        width: 100%;
+        max-width: 280px;
+        gap: 8px;
+    }
+
+    .redes,
+    .contactos {
+        width: 98%;
+        padding: 10px;
+        border-radius: 8px;
+    }
+
+    .derechos {
+        font-size: 0.8em;
+        line-height: 18px;
+        padding: 8px;
+    }
+    .derechos .copy,
+    .derechos .autoria {
+        font-size: 0.75em; /* Ajusta el tamaño de los párrafos */
+        margin: 2px 0; /* Reduce el margen aún más */
+    }
+}

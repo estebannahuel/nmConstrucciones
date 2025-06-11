@@ -1,0 +1,31 @@
+/* Custom CSS for MensajeEscribiendo if it's still cut off */
+
+/* Assuming MensajeEscribiendo renders text inside a specific class or directly */
+.banner .mensaje-texto-interno { /* Replace 'mensaje-texto-interno' with the actual class inside your component */
+    font-size: 2.5em; /* Default large font size */
+    white-space: nowrap; /* Prevent wrapping by default if it's part of the issue */
+    overflow: hidden; /* Hide overflow by default */
+    text-overflow: ellipsis; /* Add ellipsis for overflow */
+    
+}
+
+.banner{
+    height: 200px !important;
+}
+
+@media (max-width: 768px) {
+    .banner .mensaje-texto-interno {
+        font-size: 1.5em; /* Smaller font size for tablets */
+        white-space: normal; /* Allow text to wrap on smaller screens */
+        max-width: 90%; /* Limit text width */
+        margin: 0 auto; /* Center it */
+        text-overflow: clip; /* No ellipsis if text wraps */
+    }
+}
+
+@media (max-width: 480px) {
+    .banner .mensaje-texto-interno {
+        font-size: 1.2em; /* Even smaller font size for mobile */
+        max-width: 95%; /* More width on very small screens */
+    }
+}
