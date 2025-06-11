@@ -3,52 +3,52 @@
         "id": 1,
         "casa1": [
             [
-                "../public/images/trabajoSaavedra/casa1.jpg"
+                "images/trabajoSaavedra/casa1.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa2.jpg"
+                "images/trabajoSaavedra/casa2.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa3.jpg"
+                "images/trabajoSaavedra/casa3.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa4.jpg"
+                "images/trabajoSaavedra/casa4.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa5.jpg"
+                "images/trabajoSaavedra/casa5.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa6.jpg"
+                "images/trabajoSaavedra/casa6.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa7.jpg"
+                "images/trabajoSaavedra/casa7.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa8.jpg"
+                "images/trabajoSaavedra/casa8.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa9.jpg"
+                "images/trabajoSaavedra/casa9.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa10.jpg"
+                "images/trabajoSaavedra/casa10.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa11.jpg"
+                "images/trabajoSaavedra/casa11.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa12.jpg"
+                "images/trabajoSaavedra/casa12.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa13.jpg"
+                "images/trabajoSaavedra/casa13.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa14.jpg"
+                "images/trabajoSaavedra/casa14.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa15.jpg"
+                "images/trabajoSaavedra/casa15.jpg"
             ],
             [
-                "../public/images/trabajoSaavedra/casa16.jpg"
+                "images/trabajoSaavedra/casa16.jpg"
             ]
         ]
     },
@@ -57,52 +57,52 @@
         "id": 2,
         "casa1": [
             [
-                "../public/images/localEasy/local1.jpg"
+                "images/localEasy/local1.jpg"
             ],
             [
-                "../public/images/localEasy/local2.jpg"
+                "images/localEasy/local2.jpg"
             ],
             [
-                "../public/images/localEasy/local3.jpg"
+                "images/localEasy/local3.jpg"
             ],
             [
-                "../public/images/localEasy/local4.jpg"
+                "images/localEasy/local4.jpg"
             ],
             [
-                "../public/images/localEasy/local5.jpg"
+                "images/localEasy/local5.jpg"
             ],
             [
-                "../public/images/localEasy/local6.jpg"
+                "images/localEasy/local6.jpg"
             ],
             [
-                "../public/images/localEasy/local7.jpg"
+                "images/localEasy/local7.jpg"
             ],
             [
-                 "../public/images/localEasy/local8.jpg"
+                 "images/localEasy/local8.jpg"
             ],
             [
-                 "../public/images/localEasy/local9.jpg"
+                 "images/localEasy/local9.jpg"
             ],
             [
-                 "../public/images/localEasy/local10.jpg"
+                 "images/localEasy/local10.jpg"
             ],
             [
-                 "../public/images/localEasy/local11.jpg"
+                 "images/localEasy/local11.jpg"
             ],
             [
-                 "../public/images/localEasy/local12.jpg"
+                 "images/localEasy/local12.jpg"
             ],
             [
-                 "../public/images/localEasy/local13.jpg"
+                 "images/localEasy/local13.jpg"
             ],
             [
-                 "../public/images/localEasy/local14.jpg"
+                 "images/localEasy/local14.jpg"
             ],
             [
-                 "../public/images/localEasy/local15.jpg"
+                 "images/localEasy/local15.jpg"
             ],
             [
-                 "../public/images/localEasy/local16.jpg"
+                 "images/localEasy/local16.jpg"
             ]
         ]
     },
@@ -110,28 +110,28 @@
         "id": 3,
         "casa1": [
             [
-                "../public/images/casasuaraz/casa1.jpg"
+                "images/casasuaraz/casa1.jpg"
             ],
             [
-                "../public/images/casasuaraz/casa2.jpg"
+                "images/casasuaraz/casa2.jpg"
             ],
             [
-                "../public/images/casasuaraz/casa3.jpg"
+                "images/casasuaraz/casa3.jpg"
             ],
             [
-                "../public/images/casasuaraz/casa4.jpg"
+                "images/casasuaraz/casa4.jpg"
             ],
             [
-                "../public/images/casasuaraz/casa5.jpg"
+                "images/casasuaraz/casa5.jpg"
             ],
             [
-                "../public/images/casasuaraz/casa6.jpg"
+                "images/casasuaraz/casa6.jpg"
             ],
             [
-                "../public/images/casasuaraz/casa7.jpg"
+                "images/casasuaraz/casa7.jpg"
             ],
             [
-                "../public/images/casasuaraz/casa8.jpg"
+                "images/casasuaraz/casa8.jpg"
             ]
         ]
     },
@@ -139,55 +139,55 @@
         "id": 4,
         "casa1": [
             [
-                "../public/images/casaezeiza/casa1.jpg"
+                "images/casaezeiza/casa1.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa2.jpg"
+                "images/casaezeiza/casa2.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa3.jpg"
+                "images/casaezeiza/casa3.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa4.jpg"
+                "images/casaezeiza/casa4.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa5.jpg"
+                "images/casaezeiza/casa5.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa6.jpg"
+                "images/casaezeiza/casa6.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa7.jpg"
+                "images/casaezeiza/casa7.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa8.jpg"
+                "images/casaezeiza/casa8.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa9.jpg"
+                "images/casaezeiza/casa9.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa10.jpg"
+                "images/casaezeiza/casa10.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa11.jpg"
+                "images/casaezeiza/casa11.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa12.jpg"
+                "images/casaezeiza/casa12.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa13.jpg"
+                "images/casaezeiza/casa13.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa14.jpg"
+                "images/casaezeiza/casa14.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa15.jpg"
+                "images/casaezeiza/casa15.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa16.jpg"
+                "images/casaezeiza/casa16.jpg"
             ],
             [
-                "../public/images/casaezeiza/casa17.jpg"
+                "images/casaezeiza/casa17.jpg"
             ]
         ]
     },
@@ -195,37 +195,37 @@
         "id": 5,
         "casa1": [
             [
-                "../public/images/frente/casa1.jpg"
+                "images/frente/casa1.jpg"
             ],
             [
-                "../public/images/frente/casa2.jpg"
+                "images/frente/casa2.jpg"
             ],
             [
-                "../public/images/frente/casa3.jpg"
+                "images/frente/casa3.jpg"
             ],
             [
-                "../public/images/frente/casa4.jpg"
+                "images/frente/casa4.jpg"
             ],
             [
-                "../public/images/frente/casa5.jpg"
+                "images/frente/casa5.jpg"
             ],
             [
-                "../public/images/frente/casa6.jpg"
+                "images/frente/casa6.jpg"
             ],
             [
-                "../public/images/frente/casa7.jpg"
+                "images/frente/casa7.jpg"
             ],
             [
-                "../public/images/frente/casa8.jpg"
+                "images/frente/casa8.jpg"
             ],
             [
-                "../public/images/frente/casa9.jpg"
+                "images/frente/casa9.jpg"
             ],
             [
-                "../public/images/frente/casa10.jpg"
+                "images/frente/casa10.jpg"
             ],
             [
-                "../public/images/frente/casa11.jpg"
+                "images/frente/casa11.jpg"
             ]
         ]
     },
@@ -233,52 +233,52 @@
         "id": 6,
         "casa1": [
             [
-                "../public/images/baño/casa1.jpg"
+                "images/baño/casa1.jpg"
             ],
             [
-                "../public/images/baño/casa2.jpg"
+                "images/baño/casa2.jpg"
             ],
             [
-                "../public/images/baño/casa3.jpg"
+                "images/baño/casa3.jpg"
             ],
             [
-                "../public/images/baño/casa4.jpg"
+                "images/baño/casa4.jpg"
             ],
             [
-                "../public/images/baño/casa5.jpg"
+                "images/baño/casa5.jpg"
             ],
             [
-                "../public/images/baño/casa6.jpg"
+                "images/baño/casa6.jpg"
             ],
             [
-                "../public/images/baño/casa7.jpg"
+                "images/baño/casa7.jpg"
             ],
             [
-                "../public/images/baño/casa8.jpg"
+                "images/baño/casa8.jpg"
             ],
             [
-                "../public/images/baño/casa9.jpg"
+                "images/baño/casa9.jpg"
             ],
             [
-                "../public/images/baño/casa10.jpg"
+                "images/baño/casa10.jpg"
             ],
             [
-                "../public/images/baño/casa11.jpg"
+                "images/baño/casa11.jpg"
             ],
             [
-                "../public/images/baño/casa12.jpg"
+                "images/baño/casa12.jpg"
             ],
             [
-                "../public/images/baño/casa13.jpg"
+                "images/baño/casa13.jpg"
             ],
             [
-                "../public/images/baño/casa14.jpg"
+                "images/baño/casa14.jpg"
             ],
             [
-                "../public/images/baño/casa15.jpg"
+                "images/baño/casa15.jpg"
             ],
             [
-                "../public/images/baño/casa16.jpg"
+                "images/baño/casa16.jpg"
             ]
         ]
     }
