@@ -13,7 +13,7 @@
 body{
   background-image: url('../public/images/fondo2.png');  
       box-sizing: border-box;
-overflow-x: hidden;
+overflow-x: hidden !important;
 
 
 
