@@ -98,5 +98,9 @@ body.modal-open { /* Bootstrap añade esta clase al body cuando un modal/offcanv
         /* font-size: clamp(0.8rem, 5vw, 1.5rem); */
         top: 45%; /* Sube un poco más el texto */
     }
+    body{
+        width: 100vw;
+        overflow-x: hidden;
+    }
 }
 
