@@ -101,11 +101,11 @@ body.modal-open { /* Bootstrap añade esta clase al body cuando un modal/offcanv
     .banner{
         width: 100%;
          height: 400px;
-         overflow-x: hidden;
+         overflow-x: hidden !important;
         
     }
         .banner img{
-             width: 300%;
+             width: 400%;
         
     }
 }
