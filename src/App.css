@@ -104,7 +104,7 @@ body.modal-open { /* Bootstrap añade esta clase al body cuando un modal/offcanv
         
     }
         .banner img{
-             width: 100%;
+             width: 300%;
         
     }
 }
