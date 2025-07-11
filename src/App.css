@@ -29,4 +29,67 @@ body.modal-open { /* Bootstrap añade esta clase al body cuando un modal/offcanv
     padding-right: var(--bs-gutter-x); /* O 17px si no usas variables de Bootstrap */
 }
 
+.logo{
+    border-radius:50% ;
+}
+.banner{
+    position: relative;
+}
+.textoSloganTitulo{
+    position: absolute;
+     color: white; /* Color del texto dentro del contorno */
+    text-shadow:
+        -1px -1px 0 #ffffff, /* Sombra arriba-izquierda */
+         1px -1px 0 #ffffff, /* Sombra arriba-derecha */
+        -1px  1px 0 #ffffff, /* Sombra abajo-izquierda */
+         1px  1px 0 #ffffff; /* Sombra abajo-derecha */
+    /* El último valor (0) en cada línea es el desenfoque. Para un contorno nítido, ponlo en 0. */
+    /* El color (#000) es el color del contorno. */
 
+    font-size: 4em; /* Ejemplo de tamaño */
+    font-weight: bold; /* Para que se note más */
+      top:  30%;
+}
+.textoSloganTexto{
+    position: absolute;
+    top:  50% ;
+    font-size: 40px;
+      text-shadow:
+        -1px -1px 0 #000000, /* Sombra arriba-izquierda */
+         1px -1px 0 #000000, /* Sombra arriba-derecha */
+        -1px  1px 0 #000000, /* Sombra abajo-izquierda */
+         1px  1px 0 #000000; /* Sombra abajo-derecha */
+}
+@media (max-width: 768px) {
+    .textoSloganTitulo {
+        font-size: 6vw; /* Haz el título un poco más grande en móviles para que se lea mejor */
+        /* font-size: clamp(1.8rem, 6vw, 3rem); */
+        top: 25%; /* Ajusta si es necesario para móviles */
+    }
+
+    .textoSloganTexto {
+        font-size: 4vw; /* Haz el texto un poco más grande en móviles */
+        /* font-size: clamp(0.9rem, 4vw, 1.8rem); */
+        top: 50%; /* Ajusta la posición en móviles */
+    }
+
+    /* Si tienes una imagen de banner que cambia para móvil, podrías ajustarla aquí */
+    /* .banner {
+        background-image: url('tu-imagen-banner-movil.jpg');
+    } */
+}
+
+@media (max-width: 480px) {
+    /* Ajustes para pantallas muy pequeñas */
+    .textoSloganTitulo {
+        font-size: 11vw;
+        /* font-size: clamp(1.5rem, 7vw, 2.5rem); */
+        top: 20%; /* Sube un poco más el título */
+    }
+
+    .textoSloganTexto {
+        font-size: 8vw;
+        /* font-size: clamp(0.8rem, 5vw, 1.5rem); */
+        top: 45%; /* Sube un poco más el texto */
+    }
+}

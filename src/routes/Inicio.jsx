@@ -12,25 +12,18 @@ export const Inicio = () => {
     <>
       <main>
         {/* Banner principal - ahora más robusto con bg-dark y d-flex para centrado vertical */}
-        <div className="banner text-center py-5 bg-dark text-white d-flex align-items-center justify-content-center">
-          {/* Contenedor del mensaje para control de ancho y padding en móvil */}
-          <div className="container"> {/* Usamos un container de Bootstrap para el ancho general */}
-            <div className="row justify-content-center"> {/* Fila para centrar la columna del mensaje */}
-              <div className="col-12 col-md-10 col-lg-8"> {/* La columna que controla el ancho del mensaje */}
-                <h2 className="display-5 display-md-4 display-lg-3 fw-bold text-center text-uppercase">
-                  <MensajeEscribiendo />
-                </h2>
-              </div>
-            </div>
-          </div>
+        <div className="banner text-center  text-white d-flex align-items-center justify-content-center">
+   <img  src="/images/portada.jpg" 
+                        alt="Logo de la empresa"  /><h2 className="text-center display-4 fw-bold mb-4 text-dark text-uppercase textoSloganTitulo">
+            Conoce N & M Construcciones
+          </h2>
+          <p className="textoSloganTexto">"Soluciones de construcción completas: Desde cimientos hasta el último detalle."</p>
         </div>
 
         {/* Sección "Nosotros" - Contenedor principal con margen y espaciado de grilla */}
         <section className="nosotros container my-5">
           {/* Título principal de la sección "Nosotros" */}
-          <h2 className="text-center display-4 fw-bold mb-4 text-dark text-uppercase">
-            Conoce N & M Construcciones
-          </h2>
+          
           {/* Un pequeño divisor visual */}
           <hr className="mb-5 border-primary border-3 w-50 mx-auto" /> 
 

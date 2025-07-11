@@ -9,9 +9,10 @@
     
 }
 
-.banner{
+/* .banner{
     height: 200px !important;
-}
+} */
+
 
 @media (max-width: 768px) {
     .banner .mensaje-texto-interno {
