@@ -45,7 +45,7 @@ export const AlbunTrabajos = () => {
 
             {/* Botón "Ver más" */}
             <div className="text-center my-5"> {/* Centrado y margen vertical */}
-                <NavLink to={'https://www.facebook.com/ConstruccionesNYM/photos_albums'} target="_blank" className="btn btn-dark btn-lg text-uppercase fw-bold shadow">Ver más en Facebook</NavLink> {/* Estilo de botón oscuro, grande, mayúsculas, bold y sombra */}
+                <NavLink to={'https://www.facebook.com/profile.php?id=61578407722655&sk=photos_albums'} target="_blank" className="btn btn-dark btn-lg text-uppercase fw-bold shadow">Ver más en Facebook</NavLink> {/* Estilo de botón oscuro, grande, mayúsculas, bold y sombra */}
             </div>
         </>
     )

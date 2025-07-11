@@ -9,7 +9,7 @@ export const Footer = () => {
             
             {/* Logo de la empresa */}
             <div className="col-12 col-md-4 text-center"> {/* Ocupa todo el ancho en móvil, 1/3 en tablet/desktop */}
-              <img className="img-fluid mb-3" src="/images/logo.png" alt="Logo de la empresa" style={{ maxWidth: '180px' }} /> {/* Logo responsivo, margen inferior */}
+              <img className="img-fluid mb-3 logo" src="/images/logo1.jpg" alt="Logo de la empresa" style={{ maxWidth: '180px' }} /> {/* Logo responsivo, margen inferior */}
             </div>
 
             {/* Navegación del Footer (Redes y Contactos) */}
@@ -21,7 +21,7 @@ export const Footer = () => {
                   <h3 className="fs-5 mb-3 text-uppercase text-primary">Redes</h3> {/* Título más pequeño, mayúsculas, color primario */}
                   <ul className="list-unstyled mb-0"> {/* Quita puntos y margen inferior */}
                     <li>
-                      <a target="_blank" href="https://www.facebook.com/pintordurleronahuel" className="text-white text-decoration-none hover-secondary"> {/* Texto blanco, sin subrayado, hover personalizado */}
+                      <a target="_blank" href="https://www.facebook.com/61578407722655" className="text-white text-decoration-none hover-secondary"> {/* Texto blanco, sin subrayado, hover personalizado */}
                         <i className="fab fa-facebook-f me-2"></i> Facebook {/* Icono con margen a la derecha */}
                       </a>
                     </li>

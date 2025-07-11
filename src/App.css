@@ -12,6 +12,11 @@
 
 body{
   background-image: url('../public/images/fondo2.png');  
+      box-sizing: border-box;
+
+
+    box-sizing: inherit;
+
 }
 
 .logo{
@@ -93,3 +98,4 @@ body.modal-open { /* Bootstrap añade esta clase al body cuando un modal/offcanv
         top: 45%; /* Sube un poco más el texto */
     }
 }
+
