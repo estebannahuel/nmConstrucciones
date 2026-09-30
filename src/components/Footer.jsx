@@ -35,7 +35,7 @@ export const Footer = () => {
                   <ul className="list-unstyled mb-0">
                     <li>
                       <a target="_blank" href="https://walink.co/8d9f41" className="text-white text-decoration-none hover-secondary">
-                        <i className="fas fa-phone-alt me-2"></i> Tel: 11-5617-1376 {/* Puedes usar un icono de teléfono si tienes Font Awesome */}
+                        <i className="fas fa-phone-alt me-2"></i> Tel: 11-5914-3248 / 11-5617-1376 {/* Puedes usar un icono de teléfono si tienes Font Awesome */}
                       </a>
                     </li>
                     {/* Puedes añadir más contactos aquí (email, dirección, etc.) */}
